@@ -1,6 +1,10 @@
 #include <stdio.h>
+
 /**
-*main - main entry poit
+*main - Entry point
+*
+*Description : A C program that pritns with put function
+*
 *return: always 0 (success)
 */
 int main(void)
